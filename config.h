@@ -10,7 +10,7 @@ static const Block blocks[] = {
 	{"",	"sb-forecast",				18000,	5},
 	{"",	"sb-mailbox",				0,	12},
 	{"",	"sb-volume",				0,	10},
-	/* {"",	"sb-battery",				5,	0}, */
+	/* {"",	"sb-battery",				5,	3}, */
 	{"",	"sb-clock",				60,	1},
 	{"",	"sb-internet",				5,	4},
 };
