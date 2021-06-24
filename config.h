@@ -5,13 +5,13 @@ static const Block blocks[] = {
 	{"",	"sb-music",				0,	11},
 	/* {"",	"sb-pacpackages",			0,	8}, */
 	{"",	"sb-torrent",				20,	7},
-	{"",	"sb-vpn",					0,	13},
+	{"",	"sb-vpn",				0,	13},
 	/* {"",	"sb-news",				0,	6}, */
 	{"",	"sb-forecast",				18000,	5},
 	{"",	"sb-mailbox",				0,	12},
 	{"",	"sb-volume",				0,	10},
 	/* {"",	"sb-battery",				5,	0}, */
-	{"",	"sb-clock",				60,	0},
+	{"",	"sb-clock",				60,	1},
 	{"",	"sb-internet",				5,	4},
 };
 
